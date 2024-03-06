@@ -1,6 +1,6 @@
 ### Event-Driven Project: Real-time Image Processing Pipeline
 
-**Components:** \
+**Components:** 
 
 ***
 * Golang Microservices:\
